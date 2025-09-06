@@ -1,5 +1,6 @@
 # custom
 %%%*.*
+.vscode/
 
 # ssh key
 id_rsa
