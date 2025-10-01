@@ -1,6 +1,7 @@
 # custom
 %%%*.*
 .vscode/
+*.drawio
 
 # ssh key
 id_rsa
